@@ -1,0 +1,3 @@
+Tony 100
+John 30
+Judy 10
