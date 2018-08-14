@@ -2,6 +2,10 @@
 
 Here is the document of **"COMP1013 Structured Programming Group Project"**, which is translated from the Word (.docx) file.
 
+Suggested command for compiling the project (using g++ included in TDM-GCC on Windows): 
+
+g++ -o Main Main.cpp FileIO.cpp Transaction.cpp
+
 ---
 
 ## User Manual
